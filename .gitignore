@@ -1,0 +1,21 @@
+# Data
+data.csv
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Outputs
+outputs/
+results/
+plots/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
