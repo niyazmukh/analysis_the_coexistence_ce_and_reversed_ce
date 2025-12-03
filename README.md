@@ -47,3 +47,4 @@ python main.py --studies 1,2 --output-dir results --save-figs png
 The scripts generate:
 - CSV and LaTeX tables for descriptive statistics and analysis results.
 - Plots showing trial-by-trial probabilities and choice distributions.
+
